@@ -27,7 +27,7 @@ This repo helps me stay consistent and build real, useful code that I can later 
 
 - ✅ WordPress projects
 - ✅ GitHub portfolio
-- ✅ Campus placement prep
+- ✅ Campus placement preparation
 
 
 
