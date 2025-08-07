@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Constructor
-Description: This plugin is created under learning process of constructor.
+Description: This plugin is created under learning process of constructor in oops.
 Version: 1.0
 Author: Adireddy
 Text Domain: constructor
