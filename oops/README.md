@@ -1,7 +1,7 @@
 # 🔷 Object-Oriented Programming (OOP) Practice – PHP
 
 This repository is dedicated to learning and practicing **Object-Oriented Programming (OOP)** using **PHP**.  
-Each file or folder inside demonstrates a specific concept with simple examples, helping me master core programming fundamentals and improve my coding logic.
+Each file or folder inside demonstrates a specific concept with simple examples, helps me master core programming fundamentals and improve my coding logic.
 
 ## 📚 What I’m Learning
 
