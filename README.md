@@ -23,7 +23,7 @@ This is where I practice and showcase concepts from:
 ## 🔥 Why This Repo?
 
 I’m currently in my B.Tech final year and working towards becoming a high-paying **WordPress developer**.  
-This repo helps me stay consistent and build real, useful code that I can later convert into:
+This repo helps me stay consistent and build real, useful code that I can later converts into:
 
 - ✅ WordPress projects
 - ✅ GitHub portfolio
