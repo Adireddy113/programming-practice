@@ -1,31 +1,50 @@
-# PHP Object-Oriented Programming (OOP) Practice
+# PHP Object-Oriented Programming (OOP) Repository
 
-This folder contains **PHP Object-Oriented Programming exercises and examples**.  
-It is designed to help you **master PHP OOP concepts** and practice them in real coding scenarios.
+Welcome to the **PHP OOP repository**!  
+This folder serves as the main hub for all **PHP Object-Oriented Programming concepts and practice tasks**.
 
 ---
 
-## 📂 Contents
+## 📂 Repository Structure
 
-- **Classes** – Basics of PHP classes, properties, and methods  
+The `OOP/` folder is organized into two main sections:
 
-*Daily updates:* New exercises and examples will be added as you practice.
+### **1. OOP-Concepts/**
+Contains examples, notes, and experiments to understand PHP OOP fundamentals, including:
+- Classes
+- Inheritance
+- Interfaces
+- Traits
+- Magic Methods
+- Namespaces
+- Type Hinting & Return Types
+
+### **2. OOP-Tasks/**
+Contains hands-on exercises and mini-projects to apply OOP concepts in practical scenarios, including:
+- Classes Exercises
+- Inheritance Exercises
+- Interfaces Exercises
+- Traits Exercises
+- Magic Methods Exercises
+- Combined Tasks
 
 ---
 
 ## 🚀 How to Use
 
-1. Open the relevant folder for the concept you want to practice.  
-2. Run the PHP files in your local environment (XAMPP, MAMP, Laragon, etc.).  
-3. Read the examples, test variations, and add your own practice code.  
-4. Track your progress by committing daily exercises.
+1. Navigate to the folder you want to explore: `OOP-Concepts` for theory, `OOP-Tasks` for practice.  
+2. Open PHP files in your local environment (XAMPP, MAMP, Laragon, etc.) to run and test code.  
+3. Modify examples, experiment with variations, and add new tasks as you learn.  
+4. Commit daily exercises to track your progress.
 
 ---
 
 ## 💡 Goal
 
-- Understand PHP OOP concepts thoroughly.  
-- Apply OOP knowledge to real-world problems and mini-projects.  
+- Learn and master PHP OOP concepts thoroughly.  
+- Apply knowledge in real-world mini-projects.  
 - Build a strong foundation for advanced PHP and WordPress development.  
+- Maintain a structured, professional repository for learning and portfolio purposes.
+
 
 
