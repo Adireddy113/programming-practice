@@ -29,7 +29,6 @@
 ## ✅ Practiced Requests
 
 1. Get All Posts
-```http
 GET https://jsonplaceholder.typicode.com/posts
 
 2. Get a Single Post
