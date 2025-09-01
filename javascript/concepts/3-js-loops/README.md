@@ -45,5 +45,4 @@ It is designed to help you understand the fundamentals of JavaScript.
 
 - Understand core JavaScript fundamentals.  
 - Build a strong foundation for advanced JS concepts.  
-- Prepare for real-world coding projects and practice tasks.
-
+- Prepare for real-world coding projects
